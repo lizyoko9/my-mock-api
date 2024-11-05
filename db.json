@@ -1,6 +1,5 @@
 {
-  "counters": [
-{
+  "counters": {
   "pmMacContentionDelayDlDistr": "0,0,0,0,154,0,0,0,7,0,0,0,38520,0,0,0,6709,54,59,789,1",
   "pmMacContentionDelayDlMaxQos": "1,9,80",
   "pmMacContentionDelayUlDistr": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -67,8 +66,7 @@
   "pmMacOffloadVolDlSCell": "0",
   "pmMacOffloadVolDlSCellExt": "0",
   "pmMacOffloadVolUlSCell": "0"
-}
-  ],
+  },
   "profile": {
     "name": "lizyoko9"
   }
